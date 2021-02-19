@@ -2,6 +2,12 @@
 
 This bot can send all new messages from one channel, directly to another channel (or group, just in case), without the forwarded tag!
 
+# DEPLOY
+
+YOU CAN SIMPLY DEPLOY ON HEROKU BY CLICKING THE BUTTON BELOW👇
+
+[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/r0ld3x/MORAG-FORWARDER-BOT)
+
 ## Setting up 
 * First:
 > `APP_ID` and `API_HASH` - Get it from my.telegram.org   
