@@ -47,8 +47,4 @@
         }
     }
 }
-APP_ID=
-API_HASH=
-BOT_TOKEN=
-FROM_CHANNEL=
-TO_CHANNEL=
+}
