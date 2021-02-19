@@ -13,7 +13,136 @@
     "success_url": "https://telegram.dog/MORAGLINKS",
     "env": {
         "BOT_TOKEN": {
+            "{
+
+    "name": "AI BOT",
+
+    "description": "An AI based Telegram bot that can describe every photo that you send.",
+
+    "keywords": [
+
+        "AI",
+
+        "Alvi",
+
+        "Fun",
+
+        "Telegram",
+
+        "Bot"
+
+    ],
+
+    "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
+
+    "repository": "https://github.com/r0ld3x/MORAG-FORWARDER-BOT",
+
+    "success_url": "/",
+
+    "env": {
+
+        "BOT_TOKEN": {
+
             "description": "You Telegram Bot Token from @BotFather",
+
+            "value": ""
+
+        },
+
+        "API_HASH": {
+
+            "description": "Your API Hash from my.telegram.org",
+
+            "value": ""
+
+        },
+
+        "APP_ID": {
+
+            "description": "Your API ID from my.telegram.org",
+
+            "value": ""
+
+        },
+{
+    "name": "AI BOT",
+    "description": "An AI based Telegram bot that can describe every photo that you send.",
+    "keywords": [
+        "AI",
+        "Alvi",
+        "Fun",
+        "Telegram",
+        "Bot"
+    ],
+    "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
+    "repository": "https://github.com/r0ld3x/MORAG-FORWARDER-BOT",
+    "success_url": "/",
+    "env": {
+        "BOT_TOKEN": {
+            "description": "You Telegram Bot Token from @BotFather",
+            "value": ""
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "value": ""
+        },
+        "APP_ID": {
+            "description": "Your API ID from my.telegram.org",
+            "value": ""
+        },
+               "FROM_CHANNEL": {
+            "description": "TELEGRAM FORWARDER CHANNEL ID",
+            "value": ""
+        },
+               "TO_CHANNEL": {
+            "description": "YOUR CHANNEL ID",
+            "value": ""
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/python"
+}
+
+               "FROM_CHANNEL": {
+
+            "description": "TELEGRAM FORWARDER CHANNEL ID",
+
+            "value": ""
+
+        },
+
+               "TO_CHANNEL": {
+
+            "description": "YOUR CHANNEL ID",
+
+            "value": ""
+
+        }
+
+    },
+
+    "formation": {
+
+        "web": {
+
+            "quantity": 1,
+
+            "size": "free"
+
+        }
+
+    },
+
+    "image": "heroku/python"
+
+}
+
+": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
         "API_HASH": {
